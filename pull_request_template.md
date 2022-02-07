@@ -10,7 +10,8 @@
 |before screenshot url|after screenshot url|
 
 
-### Description of test cases
+### Test cases
+Test cases added: [description of added test cases]
 
 
 ### Checklist

@@ -1,7 +1,7 @@
 ### Description of the changes
 
 
-### [Asana task](url)
+### Asana task
 
 
 ### Screenshots (Optional)
